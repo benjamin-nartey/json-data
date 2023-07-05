@@ -31,8 +31,8 @@
       "location": {
         "id": "1",
         "name": "Accra Central",
-        "long": "-0.2111",
-        "lat": "5.5516",
+        "long": -0.2111,
+        "lat": 5.5516,
         "town": "Accra",
         "digital_address": "AG251678",
         "municipal": {
@@ -230,8 +230,8 @@
       "location": {
         "id": "2",
         "name": "Sunyani",
-        "long": "-2.32816",
-        "lat": " 7.33322",
+        "long": -2.32816,
+        "lat": 7.33322,
         "town": "Sunyani",
         "digital_address": "SU251678",
         "municipal": {
@@ -429,8 +429,8 @@
       "location": {
         "id": "3",
         "name": "Cape Coast",
-        "long": "-1.279474",
-        "lat": " 5.131510",
+        "long": -1.279474,
+        "lat": 5.13151,
         "town": "Cape Coast",
         "digital_address": "CR251678",
         "municipal": {
@@ -628,8 +628,8 @@
       "location": {
         "id": "4",
         "name": "Eastern Region",
-        "long": "-0.250000",
-        "lat": " 6.083333",
+        "long": -0.25,
+        "lat": 6.083333,
         "town": "Koforidua",
         "digital_address": "KD251678",
         "municipal": {
@@ -827,8 +827,8 @@
       "location": {
         "id": "5",
         "name": "Wiawso",
-        "long": "-2.48944",
-        "lat": "6.20583",
+        "long": -2.48944,
+        "lat": 6.20583,
         "town": "Sefwi Wiawso",
         "digital_address": "AG251678",
         "municipal": {
@@ -1026,8 +1026,8 @@
       "location": {
         "id": "6",
         "name": "Anagye",
-        "long": "-1.759872",
-        "lat": "4.904203",
+        "long": -1.759872,
+        "lat": 4.904203,
         "town": "Sekondi",
         "digital_address": "ST251678",
         "municipal": {
@@ -1225,8 +1225,8 @@
       "location": {
         "id": "7",
         "name": "Kpando",
-        "long": "0.29488",
-        "lat": "6.990628",
+        "long": 0.29488,
+        "lat": 6.990628,
         "town": "Kpando",
         "digital_address": "VR251678",
         "municipal": {
@@ -1424,8 +1424,8 @@
       "location": {
         "id": "8",
         "name": "Nyakpala",
-        "long": "-0.848452",
-        "lat": "9.432919",
+        "long": -0.848452,
+        "lat": 9.432919,
         "town": "Tamale",
         "digital_address": "NR251678",
         "municipal": {
@@ -1623,8 +1623,8 @@
       "location": {
         "id": "10",
         "name": "Tema",
-        "long": "0.0195",
-        "lat": "5.6345",
+        "long": 0.0195,
+        "lat": 5.6345,
         "town": "Tema",
         "digital_address": "TM251678",
         "municipal": {
@@ -1821,8 +1821,8 @@
       "location": {
         "id": "11",
         "name": "Kumasi",
-        "long": "-1.630783",
-        "lat": "6.700071",
+        "long": -1.630783,
+        "lat": 6.700071,
         "town": "Kumasi",
         "digital_address": "KS251678",
         "municipal": {
@@ -2020,8 +2020,8 @@
       "location": {
         "id": "10",
         "name": "Effiduase",
-        "long": "-0.2674852702",
-        "lat": "6.10937783317",
+        "long": -0.2674852702,
+        "lat": 6.10937783317,
         "town": "Koforidua",
         "digital_address": "ER251678",
         "municipal": {
@@ -2219,8 +2219,8 @@
       "location": {
         "id": "13",
         "name": "Asokore",
-        "long": "0.2718",
-        "lat": "6.1157",
+        "long": 0.2718,
+        "lat": 6.1157,
         "town": "Koforidua",
         "digital_address": "ER251678",
         "municipal": {
@@ -2418,8 +2418,8 @@
       "location": {
         "id": "14",
         "name": "Suhyen",
-        "long": "0.3121",
-        "lat": "6.2012",
+        "long": 0.3121,
+        "lat": 6.2012,
         "town": "Koforidua",
         "digital_address": "ER251678",
         "municipal": {
